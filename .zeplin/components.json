@@ -1,0 +1,31 @@
+{
+  "plugins": [
+    {
+      "name": "@zeplin/cli-connect-react-plugin",
+      "config": {
+        "tsDocgen": "react-docgen-typescript",
+        "tsConfigPath": "/tsconfig.json"
+      }
+    },
+    {
+      "name": "@zeplin/cli-connect-storybook-plugin",
+      "config": {
+        "url": "http://localhost:6006",
+        "startScript": "storybook",
+        "ignoreSSLErrors": true
+      }
+    }
+  ],
+  "gitlab": {
+    "repository": "dp-landing-page/dp-landing-pages-new",
+    "branch": "main"
+  },
+  "projects": [],
+  "styleguides": [],
+  "components": [
+    {
+      "path": "",
+      "zeplinIds": []
+    }
+  ]
+}
