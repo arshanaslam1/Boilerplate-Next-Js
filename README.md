@@ -50,7 +50,7 @@ Built-in feature from Next.js:
 Run the following command on your local environment:
 
 ```shell
-git clone git@gitlab.com:dp-landing-page/dp-landing-pages-new.git dp-landing-pages-new
+git clone git@xxxxxxxxxxxxxxxxxxxxxxxxxxx
 dp-landing-pages-new
 yarn install
 ```
