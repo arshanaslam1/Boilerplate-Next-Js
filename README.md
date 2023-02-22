@@ -164,7 +164,7 @@ Pro tips: if you need a project wide type checking with TypeScript, you can run 
 
 ### License
 
-Licensed under the Private License, Copyright © 2022
+Licensed under the Private License, Copyright © 2023
 
 See [LICENSE](LICENSE) for more information.
 
