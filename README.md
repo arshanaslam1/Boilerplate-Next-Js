@@ -51,7 +51,7 @@ Run the following command on your local environment:
 
 ```shell
 git clone git@xxxxxxxxxxxxxxxxxxxxxxxxxxx
-dp-landing-pages-new
+Boilerplate-Next-Js
 yarn install
 ```
 
